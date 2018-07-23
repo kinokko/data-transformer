@@ -5,5 +5,7 @@
   "scripts": {
   },
   "dependencies": {
+    "express-promise-router": "^3.0.3",
+    "request-promise": "^4.2.2"
   }
 }
