@@ -4,3 +4,6 @@ npm-debug.log
 
 # editor related
 .vscode
+
+# custom debug folder
+.debug
